@@ -1,5 +1,5 @@
 {
-    "name": "terranetmd/php-humanizer",
+    "name": "terranet/php-humanizer",
     "description": "Repository was forked from coduo/php-humanizer because of lack of support",
     "type": "library",
     "keywords": ["php", "humanize", "humanizer"],
