@@ -1,5 +1,5 @@
 {
-    "name": "coduo/php-humanizer",
+    "name": "terranetmd/php-humanizer",
     "type": "library",
     "keywords": ["php", "humanize", "humanizer"],
     "license": "MIT",
